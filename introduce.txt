@@ -1,0 +1,29 @@
+#this project is about storage and searching about the patient info.
+
+#the author info 
+        name            email                   qq
+        hellokitty      
+        martinXie       xzdong90@gmail.com
+
+
+#table0      Accounts 
+    Field           Describe        Type        Constraint
+    User
+    UserType
+    Password
+    
+    
+# table1     Basic Info of Patients
+    Field           Describe        Type        Constraint
+    ID              序列号          
+    Name            患者姓名
+    Gender          性别
+    Age             年龄
+    InpatientNumber 住院号   
+    TelephoneNumber 联系方式
+    Address         地址
+    IOL             人工晶状体
+    SurgeryTime     手术时间
+    Operator        手术医师
+    
+#table2
