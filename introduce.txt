@@ -2,8 +2,8 @@
 
 #the author info 
         name            email                   qq
-        hellokitty      
-        martinXie       xzdong90@gmail.com
+        martinXie       xzdong90@gmail.com      584345604
+        hellokitty      richardxxx0x@gmail.com  1766284456
 
 
 #table0      Accounts 
@@ -11,6 +11,7 @@
     User
     UserType
     Password
+    
     
     
 # table1     Basic Info of Patients
